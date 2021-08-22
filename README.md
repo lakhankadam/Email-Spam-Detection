@@ -1,4 +1,4 @@
-Email Spam Detection
+# Email Spam Detection
 
 Email Spam Detection using MultinomialNB
 
