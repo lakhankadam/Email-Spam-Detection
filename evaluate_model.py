@@ -19,3 +19,10 @@ def test_test_data():
     print()
     print("Confusion Matrix: \n", confusion_matrix(ytest, pred))
     print("Accuracy: \n", accuracy_score(ytest, pred))
+
+def run():
+    test_training_data()
+    test_test_data()
+
+if __name__ == '__main__':
+    run()
